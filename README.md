@@ -1,7 +1,7 @@
 # 📈 Statistical Data Science Project — Mobile Market Dynamics & Regression
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C2D12,50:C2410C,100:FB923C&customColorList=7C2D12,C2410C,FB923C&height=220&section=header&text=Statistical%20Data%20Science%20Project&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Market%20Dynamics%2C%20Regression%20Modeling%20%26%20Multivariate%20EDA&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Statistical Data Science Project Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C2D12,50:C2410C,100:FB923C&customColorList=7C2D12,C2410C,FB923C&height=220&section=header&text=Statistical%20Data%20Science%20Project&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Market%20Dynamics%2C%20Regression%20Modeling%20and%20Multivariate%20EDA&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Statistical Data Science Project Banner" />
 </p>
 
 <p align="center">
